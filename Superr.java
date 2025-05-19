@@ -29,8 +29,6 @@ class Cubo extends Rectt{
 
       }
 }
-
-
 public class Superr {
     public static void main(String[] args) {
         Cubo c1=new Cubo(2,6,10);
